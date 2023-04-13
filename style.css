@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  background-color: rgb(108, 108, 248);
+  
+}
+.nome{
+    margin: 0;
+    margin-left: 24px;
+    margin-bottom: 3px;
+    color: #fff;
+}
+.nome ,.canto{
+  display: inline-block;
+}
+.canto{
+    margin-top: 4px;
+    margin-left: 63px;   
+}
+.bio {
+  position: absolute;
+  width: 250px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  margin-left: 24px;
+  color: #fff;
+
+}
+.principal {
+  width: 294px;
+  height: 450px;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(images/fundo3.jpg);
+
+}
+
+.foto {
+  width: 250PX;
+  height: 150PX;
+  margin-left: 11px;
+}
+.habilidade{
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    margin-left: 26px;
+    color: #ffffff;
+    padding-top: 60px;
+}
+.fraqueza{
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 20px;
+    margin-left: 26px;
+    color: #fff;
+    padding-top: 85px;
+}
+.indice,.imag,.indice1,.indice2{
+    color: #fff;
+    display: inline-block;
+}
+.indice{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    padding-top: 120px;
+    margin-left: 26px;
+    margin-bottom: 2px;
+}
+.indice1{
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 26px;  
+    margin-bottom: 2px; 
+}
+.indice2{
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 26px;  
+}
